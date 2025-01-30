@@ -1,4 +1,4 @@
 
 ##PROVA POO##
 
-https://docs.google.com/document/d/1q8fjufsWY2YXilKnm5Nmqbcw5wlKWS2OAxhz7Xzgcl8/edit?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLScdq-DebQvtnbSsFmnpYM6iMcIG8su26T4HLMo8GuQCP26nMQ/viewform?usp=dialog
